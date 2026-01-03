@@ -1,4 +1,9 @@
+
 # Cloud Notes Application
+  - Ertin Lia Fitri 22010057
+  - Tanti AYu nengtias 22010006
+
+# Cloud Notes Web Application
 
 Cloud Notes adalah aplikasi **berbasis cloud** sederhana untuk menyimpan, menampilkan, dan menghapus catatan.  
 Aplikasi ini dibangun menggunakan **arsitektur serverless AWS** sebagai bagian dari tugas proyek mata kuliah Cloud Computing.
@@ -21,7 +26,6 @@ Aplikasi ini dibangun menggunakan **arsitektur serverless AWS** sebagai bagian d
 | AWS Lambda | Backend logic (serverless) |
 | Amazon DynamoDB | Database NoSQL |
 | Amazon S3 | Hosting frontend statis |
-| Amazon CloudWatch | Logging & monitoring |
 
 ---
 
