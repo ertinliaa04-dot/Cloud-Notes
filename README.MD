@@ -12,7 +12,7 @@ Aplikasi ini dibangun menggunakan **arsitektur serverless AWS** sebagai bagian d
 
 # 🌐 Alamat url Acces Cloud Notes Web Application 
 
-https://github.com/ertinliaa04-dot/Cloud-Notes
+http://note-cloud-app.s3-website-us-east-1.amazonaws.com/
 
 ---
 
