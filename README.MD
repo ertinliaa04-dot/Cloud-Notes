@@ -1,16 +1,16 @@
 
-# Cloud Notes Application
+# 👭 Anggta Kelompok 
   - Ertin Lia Fitri 22010057
   - Tanti AYu nengtias 22010006
 
-# Cloud Notes Web Application
+# ✈️ Cloud Notes Web Application 
 
 Cloud Notes adalah aplikasi **berbasis cloud** sederhana untuk menyimpan, menampilkan, dan menghapus catatan.  
 Aplikasi ini dibangun menggunakan **arsitektur serverless AWS** sebagai bagian dari tugas proyek mata kuliah Cloud Computing.
 
 ---
 
-# Alamat url Acces Cloud Notes Web Application
+# 🌐 Alamat url Acces Cloud Notes Web Application 
 
 https://github.com/ertinliaa04-dot/Cloud-Notes
 
