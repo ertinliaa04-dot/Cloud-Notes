@@ -2,6 +2,7 @@
 # 👭 Anggta Kelompok 
   - Ertin Lia Fitri 22010057
   - Tanti AYu nengtias 22010006
+  - Fransiska Afita Elsa 22010034
 
 # ✈️ Cloud Notes Web Application 
 
